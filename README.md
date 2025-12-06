@@ -1,7 +1,5 @@
 # HackFlow - Hackathon Management System
 
-![HackFlow Banner](public/placeholder-logo.svg)
-
 A modern, feature-rich hackathon management platform built with Next.js 15, React 19, and TypeScript. HackFlow provides comprehensive tools for organizing, managing, and participating in hackathons with AI-driven insights, seamless team collaboration, and intelligent mentor matching.
 
 ## 🌟 Features
@@ -73,11 +71,9 @@ Before you begin, ensure you have the following installed:
    npm install
    ```
 
-3. **Set up environment variables** (if needed)
-   ```bash
-   cp .env.example .env.local
-   ```
-   Edit `.env.local` with your configuration settings.
+3. **Set up environment variables** (optional)
+   
+   Currently, the application runs without environment variables for local development. If you need to configure environment-specific settings in the future, create a `.env.local` file in the root directory.
 
 4. **Run the development server**
    ```bash
@@ -235,7 +231,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is open source and available for educational and non-commercial use.
 
 ## 👨‍💻 Author
 
