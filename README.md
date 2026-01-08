@@ -1,11 +1,6 @@
 # Hackathon Management System
 
-> Centralized platform to create, manage, and evaluate hackathons — projects, teams, submissions, judges, scoring, and results.
-
-[Project status badge]: https://img.shields.io/badge/status-active-brightgreen
-[License badge]: https://img.shields.io/badge/license-ADD_LICENSE-blue
-
-(Replace the placeholder badges above with real badge links once you add CI, coverage, and license)
+> Centralized platform to create, manage, and evaluate hackathons — projects, teams, submissions, judges, scoring, and results
 
 ## Table of contents
 
